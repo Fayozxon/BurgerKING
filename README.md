@@ -1,2 +1,2 @@
 # BurgerKING
-A website that you can book fas-food with it
+A website that you can book fast-food with it
